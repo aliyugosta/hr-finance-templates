@@ -42,7 +42,21 @@ hr-finance-templates/
 
 ---
 
-## 📊 Template Descriptions
+## 📸 Template Previews
+
+### Payroll & PAYE Tax Computation
+![Payroll PAYE Template](Screenshot%20HR1.png)
+
+### Vehicle Fleet Fueling Schedule
+![Vehicle Fueling Schedule](Screenshot%20HR2.png)
+
+### Employee Leave Tracker — Year to Date
+![Employee Leave Tracker](Screenshot%20HR3.png)
+
+### PAYE Eligible Deductions Template
+![PAYE Template](Screenshot%20HR4.png)
+
+---
 
 ### 1. PAYE Tax Computation Template
 A structured template for computing Personal Income Tax (PIT) in line with Nigerian tax legislation. Incorporates:
